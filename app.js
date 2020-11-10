@@ -31,16 +31,22 @@ let track_list = [
     path: "senorita.mp3"
   }, 
   { 
-    name: "Sia- Cheap Thrills", 
-    artist: "Sia", 
-    image: "cheap_thrills.jpg", 
-    path: "cheap_thrills.mp3"
+    name: "Dance Monkey", 
+    artist: "Tones and I", 
+    image: "dance_monkey.jpg", 
+    path: "dance_monkey.mp3"
   }, 
   { 
     name: "Perfect", 
     artist: "Ed Sheeran", 
     image: "perfect.jpg", 
     path: "perfect.mp3", 
+  },
+  { 
+    name: "Blinding Lights", 
+    artist: "THE WEEKND", 
+    image: "blinding_lights.png", 
+    path: "blinding_lights.mp3", 
   }, 
 ]; 
 function loadTrack(track_index) { 
